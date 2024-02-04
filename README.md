@@ -1,13 +1,12 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate .NET developer based in [Your Location]. Welcome to my GitHub profile! 🚀
+I'm [Your Name], a passionate .NET developer based in [Egypt]. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-- 🎓 I graduated with a degree in [Your Field of Study].
-- 💼 Currently working as a [Your Job Title] at [Your Company].
+- 🎓 I graduated with a degree in [Faculty of computer and information].
+- 💼 Currently working as a [.Net Developer] at [Procoor].
 - 🌱 I'm constantly learning and exploring new technologies, with a focus on .NET and related ecosystems.
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him]
 
 ## Tech Stack
 
