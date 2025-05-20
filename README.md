@@ -1,38 +1,23 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Mahmoud Ibrahim</h1>
+<h3 align="center">Software Engineer | .Net Developer</h3>
 
-I'm [Your Name], a passionate .NET developer based in [Egypt]. Welcome to my GitHub profile! 🚀
+- 🔭 I’m currently working on [Premuim card international](https://premiumcard.net/)
 
-## About Me
+- 🌱 I’m currently learning **RabbitMQ , Domain driven**
 
-- 🎓 I graduated with a degree in [Faculty of computer and information].
-- 💼 Currently working as a [.Net Developer] at [Cloud Secrets].
-- 🌱 I'm constantly learning and exploring new technologies, with a focus on .NET and related ecosystems.
+- 👯 I’m looking to collaborate on **E-fainace project**
 
-## Tech Stack
+- 🤝 I’m looking for help with **Health way**
 
-- 💻 I'm proficient in C#, .NET Core, ASP.NET, and related technologies.
-- 🌐 Familiar with web development using HTML, CSS, and JavaScript.
-- 🛢️ Experience with databases such as SQL Server and MongoDB.
-- 📦 Version control using Git.
+- 💬 Ask me about **I am a versatile and experienced Software Engineer with proficiency in both .NET and PHP, with a primary focus on .NET development. I excel in designing and building robust, scalable web applications using ASP.NET Core, developing APIs using Web API, and creating desktop applications with WinForms and WPF. Additionally, I have extensive experience working with native PHP, MySQL, and SQL Server. With a strong background in the repository pattern, I consistently deliver high-quality, efficient, and maintainable software solutions. My ability to work across different technologies allows me to adapt quickly and effectively to various project requirements, solving complex problems and contributing to the success of innovative projects.**
 
-## Projects
+- 📫 How to reach me **mhmoud.ibrahim74@gmail.com**
 
-Here are some of the projects I've been working on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-ibrahim74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ibrahim74" height="30" width="40" /></a>
+<a href="https://fb.com/houda405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="houda405" height="30" width="40" /></a>
+</p>
 
-- 🚀 [Project 1] [https://github.com/Mahmoud-ibrahim74/GoToPray]: GoToPray time of pray for muslims.
-- 🌐 [Project 2] [https://github.com/Mahmoud-ibrahim74/ChairShopping]: ChairShopping is an E-commece Website using Asp.Net core mvc .
-- ⚙️ [Project 3] [https://github.com/Mahmoud-ibrahim74/Farm-Mangement-System] : Brief description Desktop application using winofrm that's can manaage farm and make all operation in this app like report .
-
-Feel free to explore my repositories for more!
-
-## Connect with Me
-
-- 📧 You can reach me via [Email](mailto:mhmoud.ibrahim74@gmail.com).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-ibrahim74/).
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle).
-
-## Let's Collaborate
-
-I'm always open to collaboration and new opportunities. If you have a project or just want to connect, feel free to reach out! 🤝
-
-Thanks for stopping by! Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
